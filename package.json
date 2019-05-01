@@ -1,0 +1,11 @@
+{
+  "name": "hubot-json-logger",
+  "version": "1.0.0",
+  "description": "Hubot logger with JSON output",
+  "main": "src/json-logger.js",
+  "author": "Jason Kaskel <jason.kaskel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-json-logger": "0.0.10"
+  }
+}
