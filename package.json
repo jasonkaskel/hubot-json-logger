@@ -5,6 +5,17 @@
   "main": "src/json-logger.js",
   "author": "Jason Kaskel <jason.kaskel@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonkaskel/hubot-json-logger.git"
+  },
+  "engines": {
+    "node": "> 4.0.0"
+  },
   "dependencies": {
     "node-json-logger": "0.0.10"
   }
